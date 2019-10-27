@@ -1,2 +1,2 @@
 server:
-  address: 123456
+  address: ‘123456’
