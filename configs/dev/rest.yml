@@ -1,0 +1,9 @@
+server:
+  port: 7777
+spring:
+  application:
+    name: eureka
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
